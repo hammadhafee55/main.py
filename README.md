@@ -35,4 +35,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: my-app.apk
-          path: path/to/your/project/bin/*.apk
+          path: main.py/Recipe.py.py.apk
